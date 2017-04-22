@@ -1,0 +1,2 @@
+# cv_ui_tl
+作为本科毕业设计的一部分，这些代码主要写了一个用于图像分类的UI系统，基于TensorFlow和TensorLayer以及PyQt
